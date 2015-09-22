@@ -39,5 +39,7 @@ namespace eRestaurantSystem.Entities
         public virtual ICollection<Table> Tables { get; set; }
 
         
+
+        
      }
 }
